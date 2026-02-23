@@ -1,0 +1,3 @@
+NOTA: El archivo binario del modelo (`models/modelo_educacion_superior.pkl`) no estaba disponible para empaquetar en esta sesión.
+
+Si ya tienes `models/modelo_educacion_superior.pkl`, colócalo en `package/models/` antes de usar el ZIP o reemplaza este archivo con el .pkl real.
